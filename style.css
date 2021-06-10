@@ -7,8 +7,10 @@ html {
   font-size: 62.5%;
 }
 #header {
+  position: fixed;
   display: flex;
   align-items: center;
+  background-color: rgb(240, 210, 175);
   height: 30%;
   width: 90%;
   margin: auto;
