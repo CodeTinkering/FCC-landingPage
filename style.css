@@ -7,7 +7,7 @@ html {
   font-size: 62.5%;
 }
 #header {
-  position: fixed;
+  position: sticky;
   display: flex;
   align-items: center;
   background-color: rgb(240, 210, 175);
