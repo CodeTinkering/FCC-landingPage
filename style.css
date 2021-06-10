@@ -9,9 +9,11 @@ html {
 #header {
   display: flex;
   align-items: center;
-  height: 30vh;
-  width: 90vw;
+  height: 30%;
+  width: 90%;
   margin: 2rem auto;
+  top: 20px;
+  position: sticky;
 }
 nav > ul {
   display: flex;
