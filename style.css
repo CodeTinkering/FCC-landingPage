@@ -7,11 +7,13 @@ html {
   font-size: 62.5%;
 }
 #header {
+  position: fixed;
   display: flex;
   align-items: center;
-  height: 30vh;
-  width: 90vw;
-  margin: 2rem auto;
+  background-color: rgb(240, 210, 175);
+  height: 30%;
+  width: 90%;
+  margin: auto;
 }
 nav > ul {
   display: flex;
